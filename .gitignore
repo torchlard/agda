@@ -1,10 +1,14 @@
 *
 !*.agda
+!sample
+!hott
 !.gitignore
 
+sample/*
+!sample/*.agda
 
-
-
+hott/*
+!hott/*.agda
 
 
 
